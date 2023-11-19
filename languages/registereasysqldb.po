@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: registereasysqldb.sfirebirddatabases
+msgid "Firebird databases"
+msgstr ""
+
+#: registereasysqldb.sinterbasedatabases
+msgid "Interbase databases"
+msgstr ""
+
+#: registereasysqldb.slibraries
+msgid "Shared libraries"
+msgstr ""
+
+#: registereasysqldb.ssqlite3databases
+msgid "SQLite3 databases"
+msgstr ""
+
+#: registereasysqldb.ssqlscript
+msgid "Archivo de script SQL"
+msgstr ""
+
+#: registereasysqldb.ssqlscriptdesc
+msgid "Crear un nuevo archivo de script SQL"
+msgstr ""
+
+#: registereasysqldb.ssqlsource
+msgid "Inserte sus instrucciones SQL aquí"
+msgstr ""
+
+#: registereasysqldb.ssqlstringspropertyeditordlgtitle
+msgid "Edición %s"
+msgstr ""
+

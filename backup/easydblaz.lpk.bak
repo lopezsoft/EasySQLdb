@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="EASYDBLaz"/>
+    <Type Value="RunAndDesignTime"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <IncludeFiles Value="include"/>
+        <OtherUnitFiles Value="mysql"/>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <Version Minor="1" Release="1" Build="1"/>
+    <Files Count="13">
+      <Item1>
+        <Filename Value="easydb.pp"/>
+        <UnitName Value="easyDB"/>
+      </Item1>
+      <Item2>
+        <Filename Value="easypqteventmonitor.pas"/>
+        <UnitName Value="EASYPQTEventMonitor"/>
+      </Item2>
+      <Item3>
+        <Filename Value="easysqldblib.pp"/>
+        <UnitName Value="easysqldblib"/>
+      </Item3>
+      <Item4>
+        <Filename Value="edbstringspropertyeditordlg.pas"/>
+        <UnitName Value="EDBStringsPropertyEditorDlg"/>
+      </Item4>
+      <Item5>
+        <Filename Value="registereasysqldb.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="registereasysqldb"/>
+      </Item5>
+      <Item6>
+        <Filename Value="mysql\easymysql40conn.pas"/>
+        <UnitName Value="easymysql40conn"/>
+      </Item6>
+      <Item7>
+        <Filename Value="mysql\easymysql41conn.pas"/>
+        <UnitName Value="easymysql41conn"/>
+      </Item7>
+      <Item8>
+        <Filename Value="mysql\easymysql50conn.pas"/>
+        <UnitName Value="easymysql50conn"/>
+      </Item8>
+      <Item9>
+        <Filename Value="mysql\easymysql51conn.pas"/>
+        <UnitName Value="easymysql51conn"/>
+      </Item9>
+      <Item10>
+        <Filename Value="mysql\easymysql55conn.pas"/>
+        <UnitName Value="easymysql55conn"/>
+      </Item10>
+      <Item11>
+        <Filename Value="mysql\easymysql56conn.pas"/>
+        <UnitName Value="easymysql56conn"/>
+      </Item11>
+      <Item12>
+        <Filename Value="mysql\easymysql57conn.pas"/>
+        <UnitName Value="easymysql57conn"/>
+      </Item12>
+      <Item13>
+        <Filename Value="easysqlite3conn.pas"/>
+        <UnitName Value="easysqlite3conn"/>
+      </Item13>
+    </Files>
+    <i18n>
+      <EnableI18N Value="True"/>
+      <OutDir Value="languages"/>
+      <EnableI18NForLFM Value="True"/>
+    </i18n>
+    <RequiredPkgs Count="4">
+      <Item1>
+        <PackageName Value="CodeTools"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="SynEdit"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="IDEIntf"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="FCL"/>
+      </Item4>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <CustomOptions Items="ExternHelp" Version="2">
+      <_ExternHelp Items="Count"/>
+    </CustomOptions>
+  </Package>
+</CONFIG>

@@ -1,0 +1,9 @@
+{"version":1,"strings":[
+{"hash":66149164,"name":"registereasysqldb.ssqlscript","sourcebytes":[65,114,99,104,105,118,111,32,100,101,32,115,99,114,105,112,116,32,83,81,76],"value":"Archivo de script SQL"},
+{"hash":203986684,"name":"registereasysqldb.ssqlscriptdesc","sourcebytes":[67,114,101,97,114,32,117,110,32,110,117,101,118,111,32,97,114,99,104,105,118,111,32,100,101,32,115,99,114,105,112,116,32,83,81,76],"value":"Crear un nuevo archivo de script SQL"},
+{"hash":260918909,"name":"registereasysqldb.ssqlsource","sourcebytes":[73,110,115,101,114,116,101,32,115,117,115,32,105,110,115,116,114,117,99,99,105,111,110,101,115,32,83,81,76,32,97,113,117,195,173],"value":"Inserte sus instrucciones SQL aqu\u00C3\u00AD"},
+{"hash":237922515,"name":"registereasysqldb.sfirebirddatabases","sourcebytes":[70,105,114,101,98,105,114,100,32,100,97,116,97,98,97,115,101,115],"value":"Firebird databases"},
+{"hash":45427603,"name":"registereasysqldb.sinterbasedatabases","sourcebytes":[73,110,116,101,114,98,97,115,101,32,100,97,116,97,98,97,115,101,115],"value":"Interbase databases"},
+{"hash":94612835,"name":"registereasysqldb.ssqlstringspropertyeditordlgtitle","sourcebytes":[69,100,105,99,105,195,179,110,32,37,115],"value":"Edici\u00C3\u00B3n %s"},
+{"hash":20743091,"name":"registereasysqldb.slibraries","sourcebytes":[83,104,97,114,101,100,32,108,105,98,114,97,114,105,101,115],"value":"Shared libraries"}
+]}

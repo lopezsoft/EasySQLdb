@@ -1,0 +1,69 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: edbstringspropertyeditordlg.sloadsqlcodehint
+msgid "Cargar código SQL ..."
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetacolumns
+msgid "Columnas"
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetapleasespecifyatableintheobjectfield
+msgid "Por favor especifique una tabla en la fila del obejto."
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetaprocedures
+msgid "Procedimientos"
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetasystables
+msgid "SysTables"
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetatabcaption
+msgid "Metadatos"
+msgstr ""
+
+#: edbstringspropertyeditordlg.smetatables
+msgid "Tablas"
+msgstr ""
+
+#: edbstringspropertyeditordlg.sqlsyntaxok
+msgid "No se encontraron errores de sintaxis en la instrucción SQL."
+msgstr ""
+
+#: edbstringspropertyeditordlg.squickcheckofsqlsyntaxhint
+msgid "Comprobación rápida de la sintaxis de SQL"
+msgstr ""
+
+#: edbstringspropertyeditordlg.sresulttabcaption
+msgid "Resultados"
+msgstr ""
+
+#: edbstringspropertyeditordlg.srunsqlcodehint
+msgid "Ejecutar código SQL"
+msgstr ""
+
+#: edbstringspropertyeditordlg.ssavesqlcodehint
+msgid "Guardar cóidog SQL ..."
+msgstr ""
+
+#: edbstringspropertyeditordlg.ssqlerror
+msgid "Probable error SQL"
+msgstr ""
+
+#: edbstringspropertyeditordlg.ssqlok
+msgid "Comprobación rápida de SQL OK"
+msgstr ""
+
+#: edbstringspropertyeditordlg.ssqlsyntaxerror
+msgid ""
+"Error de sintaxis probable en la instrucción SQL:\n"
+"%s\n"
+msgstr ""
+
+#: edbstringspropertyeditordlg.ssqltabcaption
+msgid "Cídog SQL"
+msgstr ""
+

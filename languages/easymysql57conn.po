@@ -1,0 +1,51 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: easymysql57conn.serrdatabasecreate
+msgid "Error al crear la base de datos: %s"
+msgstr ""
+
+#: easymysql57conn.serrdatabasedrop
+msgid "Error al eliminar la base de datos: %s"
+msgstr ""
+
+#: easymysql57conn.serrdatabaseselectfailed
+msgid "Error al seleccionar la base de datos: %s"
+msgstr ""
+
+#: easymysql57conn.serrexecuting
+msgid "Error al ejecutar la consulta: %s"
+msgstr ""
+
+#: easymysql57conn.serrfetchingdata
+msgid "Error al obtener los datos de la fila: %s"
+msgstr ""
+
+#: easymysql57conn.serrgettingresult
+msgid "Error al obtener el conjunto de resultados: %s"
+msgstr ""
+
+#: easymysql57conn.serrnodata
+msgid "No hay datos para el registro"
+msgstr ""
+
+#: easymysql57conn.serrnoqueryresult
+msgid "Ningún resultado de la consulta."
+msgstr ""
+
+#: easymysql57conn.serrserverconnectfailed
+msgid "Error de conexión del servidor."
+msgstr ""
+
+#: easymysql57conn.serrsetcharsetfailed
+msgid "Error al establecer el conjunto de caracteres de conexión: %s"
+msgstr ""
+
+#: easymysql57conn.serrsettingparameter
+msgid "Error setting parameter \"%s\""
+msgstr ""
+
+#: easymysql57conn.serrversionmismatch
+msgid "%s can not work with the installed MySQL client version: Expected (%s), got (%s)."
+msgstr ""
+

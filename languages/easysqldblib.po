@@ -1,0 +1,11 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: easysqldblib.serrconnnected
+msgid "This operation is not allowed while the datatabase is loaded"
+msgstr ""
+
+#: easysqldblib.serrinvalidconnectiontype
+msgid "Invalid connection type : \"%s\""
+msgstr ""
+

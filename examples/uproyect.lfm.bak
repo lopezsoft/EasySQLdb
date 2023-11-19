@@ -1,0 +1,39 @@
+object Form1: TForm1
+  Left = 567
+  Height = 266
+  Top = 257
+  Width = 509
+  Caption = 'Form1'
+  LCLVersion = '1.6.4.0'
+  object EDBQuery1: TEDBQuery
+    FieldDefs = <>
+    Database = EDBConnector1
+    Transaction = EDBTransaction1
+    Options = []
+    Params = <>
+    left = 30
+    top = 8
+  end
+  object EDBTransaction1: TEDBTransaction
+    Active = False
+    Database = EDBConnector1
+    Options = []
+    left = 200
+    top = 9
+  end
+  object EDBConnector1: TEDBConnector
+    Connected = False
+    LoginPrompt = False
+    KeepConnection = False
+    Transaction = EDBTransaction1
+    Options = []
+    ConnectorType = 'MySQL 5.7'
+    left = 104
+    top = 9
+  end
+  object DataSource1: TDataSource
+    DataSet = EDBQuery1
+    left = 112
+    top = 88
+  end
+end

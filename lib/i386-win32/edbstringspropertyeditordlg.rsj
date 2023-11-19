@@ -1,0 +1,18 @@
+{"version":1,"strings":[
+{"hash":205518787,"name":"edbstringspropertyeditordlg.sresulttabcaption","sourcebytes":[82,101,115,117,108,116,97,100,111,115],"value":"Resultados"},
+{"hash":190686828,"name":"edbstringspropertyeditordlg.ssqltabcaption","sourcebytes":[67,195,173,100,111,103,32,83,81,76],"value":"C\u00C3\u00ADdog SQL"},
+{"hash":175823523,"name":"edbstringspropertyeditordlg.smetatabcaption","sourcebytes":[77,101,116,97,100,97,116,111,115],"value":"Metadatos"},
+{"hash":94868099,"name":"edbstringspropertyeditordlg.smetatables","sourcebytes":[84,97,98,108,97,115],"value":"Tablas"},
+{"hash":104611875,"name":"edbstringspropertyeditordlg.smetacolumns","sourcebytes":[67,111,108,117,109,110,97,115],"value":"Columnas"},
+{"hash":178513651,"name":"edbstringspropertyeditordlg.smetaprocedures","sourcebytes":[80,114,111,99,101,100,105,109,105,101,110,116,111,115],"value":"Procedimientos"},
+{"hash":100132190,"name":"edbstringspropertyeditordlg.smetapleasespecifyatableintheobjectfield","sourcebytes":[80,111,114,32,102,97,118,111,114,32,101,115,112,101,99,105,102,105,113,117,101,32,117,110,97,32,116,97,98,108,97,32,101,110,32,108,97,32,102,105,108,97,32,100,101,108,32,111,98,101,106,116,111,46],"value":"Por favor especifique una tabla en la fila del obejto."},
+{"hash":145222083,"name":"edbstringspropertyeditordlg.smetasystables","sourcebytes":[83,121,115,84,97,98,108,101,115],"value":"SysTables"},
+{"hash":208742206,"name":"edbstringspropertyeditordlg.sloadsqlcodehint","sourcebytes":[67,97,114,103,97,114,32,99,195,179,100,105,103,111,32,83,81,76,32,46,46,46],"value":"Cargar c\u00C3\u00B3digo SQL ..."},
+{"hash":191872830,"name":"edbstringspropertyeditordlg.ssavesqlcodehint","sourcebytes":[71,117,97,114,100,97,114,32,99,195,179,105,100,111,103,32,83,81,76,32,46,46,46],"value":"Guardar c\u00C3\u00B3idog SQL ..."},
+{"hash":185892796,"name":"edbstringspropertyeditordlg.srunsqlcodehint","sourcebytes":[69,106,101,99,117,116,97,114,32,99,195,179,100,105,103,111,32,83,81,76],"value":"Ejecutar c\u00C3\u00B3digo SQL"},
+{"hash":267338892,"name":"edbstringspropertyeditordlg.squickcheckofsqlsyntaxhint","sourcebytes":[67,111,109,112,114,111,98,97,99,105,195,179,110,32,114,195,161,112,105,100,97,32,100,101,32,108,97,32,115,105,110,116,97,120,105,115,32,100,101,32,83,81,76],"value":"Comprobaci\u00C3\u00B3n r\u00C3\u00A1pida de la sintaxis de SQL"},
+{"hash":138834619,"name":"edbstringspropertyeditordlg.ssqlok","sourcebytes":[67,111,109,112,114,111,98,97,99,105,195,179,110,32,114,195,161,112,105,100,97,32,100,101,32,83,81,76,32,79,75],"value":"Comprobaci\u00C3\u00B3n r\u00C3\u00A1pida de SQL OK"},
+{"hash":97081646,"name":"edbstringspropertyeditordlg.sqlsyntaxok","sourcebytes":[78,111,32,115,101,32,101,110,99,111,110,116,114,97,114,111,110,32,101,114,114,111,114,101,115,32,100,101,32,115,105,110,116,97,120,105,115,32,101,110,32,108,97,32,105,110,115,116,114,117,99,99,105,195,179,110,32,83,81,76,46],"value":"No se encontraron errores de sintaxis en la instrucci\u00C3\u00B3n SQL."},
+{"hash":121269436,"name":"edbstringspropertyeditordlg.ssqlerror","sourcebytes":[80,114,111,98,97,98,108,101,32,101,114,114,111,114,32,83,81,76],"value":"Probable error SQL"},
+{"hash":169222915,"name":"edbstringspropertyeditordlg.ssqlsyntaxerror","sourcebytes":[69,114,114,111,114,32,100,101,32,115,105,110,116,97,120,105,115,32,112,114,111,98,97,98,108,101,32,101,110,32,108,97,32,105,110,115,116,114,117,99,99,105,195,179,110,32,83,81,76,58,13,10,37,115],"value":"Error de sintaxis probable en la instrucci\u00C3\u00B3n SQL:\r\n%s"}
+]}
